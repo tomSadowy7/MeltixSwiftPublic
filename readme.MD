@@ -7,7 +7,7 @@ The **Meltix App** provides an intuitive mobile interface for managing and monit
 
 ---
 
-#### Backend Repositoryy: https://github.com/tomSadowy7/MeltixOfficialBackend
+#### Backend Repository: https://github.com/tomSadowy7/MeltixOfficialBackend
 
 ## Overview
 
