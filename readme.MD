@@ -24,18 +24,17 @@ Users can:
 
 ### Some Screenshots from a video I recorded about Meltix Home Automation:
 
-![App screenshot](./images/front_page.png)
+![App screenshot](./front_page.png)
 
-![App screenshot](./images/bluetooth_provisioning.png)
+![App screenshot](./bluetooth_provisioning.png)
 
-![App screenshot](./images/setup.png)
+![App screenshot](./setup.png)
 
-![App screenshot](./images/sprinkler_controller.png)
+![App screenshot](./sprinkler_controller.png)
 
-![App screenshot](./images/scheduling.png)
+![App screenshot](./scheduling.png)
 
-
-![App screenshot](./images/home_base_page.png)
+![App screenshot](./home_base_page.png)
 
 
 
